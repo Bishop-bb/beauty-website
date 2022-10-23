@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.sec1{
+    padding: 25px 0;
+    border-bottom: 2px solid white;
+    overflow: hidden;
+    background-color: rgb(32, 28, 28);
+}
+#bb{
+    float: left;
+    width: 35%;
+    text-align: center; 
+    color: white;
+    font-size: 30px;  
+}
+
+#nav1 li{
+    float: left;
+}
+
+
+#nav1 ul{
+    list-style-type: none;
+    float: left;
+}
+
+#nav1 a{
+    display:inline-block;
+    text-decoration: none;
+    padding: 0 25px;
+    color: white;
+    font-size: 25px;
+}
+#nav1 a:hover{
+    color: rgba(0, 128, 0, 0.726);
+    /* border: 1px solid white; */
+    /* padding: 15px; */
+    border-radius: 15px;
+    
+}
+
+#nav2 ul{
+    list-style-type: none;
+    float: left;
+
+}
+
+#nav2 li{
+    float: left;
+}
+
+#nav2 a{
+    text-decoration: none;
+    padding: 0 25px;
+    font-size: 20px;
+    color: white;
+    display: inline-block;
+
+}
+
+#nav2 #two{
+    padding-top: 15px;
+    padding-left: 40px
+}
+
+
+#backg{
+    float: left;
+    padding: 55px 0;
+
+}
+#beauty{ 
+    width: 50%;
+    padding-left: 55px;
+    float: left;
+    
+}
+#beauty p{
+    padding: 55px 0;
+    color: brown;
+    font-style: italic;
+    font-size: 25px;
+}
+
+#beauty span{
+    color: white;
+    font-size: 35px;
+}
+
+#only{
+    border: 1px solid white;
+    padding: 15px;
+    border-radius: 15px;
+}
+#only a:hover{
+    color: brown;
+}
+
+#two a:hover{
+    border-bottom: 1px solid brown;
+}
+

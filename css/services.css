@@ -1,0 +1,57 @@
+.sec3 #ser{
+    font-size: 45px;
+    text-align: center;
+    margin-top: 80px;
+    color: white;
+    padding: 50px 0;
+    background-color: rgb(32, 28, 28);
+}
+
+
+.height{ 
+    height: 200px;
+}
+#d1{
+    float: left;
+    width: 50%;
+    text-align: center;
+    background-color: rgb(32, 28, 28);
+
+}
+
+#d1 h1{
+    padding: 15px 0;
+    color: white;
+    font-size: 30px;
+}
+#d1 p{
+    font-size: 25px;
+    padding: 5px 15px;
+    color: white;
+}
+
+#d2{
+    float: left;
+    width: 50%;
+    text-align: center;
+    background-color: rgb(32, 28, 28);
+    padding-top: 35px;
+   
+}
+
+#d2 p{
+    font-size: 25px;
+    padding: 5px 15px;
+    color: white;
+    
+}
+
+#d2 h1{
+    padding: 15px 0;
+    color: white;
+    font-size: 30px;
+}
+
+#comb{
+    margin-bottom: 28px;
+}

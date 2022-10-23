@@ -1,0 +1,96 @@
+
+.sec5{
+    clear: both;
+}
+
+.con{
+    width: 100%;
+}
+#con{
+    width: 50%;
+    float: left;
+}
+
+.sec5 h5{
+    float: left;
+    font-size: 45px;
+    text-align: center;
+    width: 50%;
+    /* padding: 190px; */
+    color: white;
+    background-color: rgb(32, 28, 28);
+    height: 380px;
+    padding-top: 160px;
+    
+    
+
+    
+}
+
+#wi{
+    float: left;
+    clear: both;
+    width: 35%;
+    text-align: center;
+    padding: 25px 0;
+    background-color: rgb(32, 28, 28);
+    color: white;
+    margin-top: -5px;
+    
+
+}
+
+#add{
+    float: left;
+    width: 30%;
+    text-align: center;
+    font-size: 25px;
+    /* padding-top: 95px; */
+    background-color: rgb(32, 28, 28);
+    color: white;
+    padding-bottom: 26px;
+    margin-top: -5px;
+}
+#bod{
+    float: left;
+    width: 35%;
+    text-align: center;
+    padding: 25px 0;
+    color: white;
+    background-color: rgb(32, 28, 28);
+    margin-top: -5px;
+
+}
+#office{
+    font-size: 40px;
+    padding: 25px 0;
+    color: white;
+}
+#work{
+    clear: both;
+    font-size: 40px;
+    color: white;
+}
+
+#wi #open{
+    font-size: 30px;
+    padding-top: 25px;
+    line-height: 45px;
+}
+
+#bod #han{
+    font-size: 40px;
+    padding-bottom: 25px;
+}
+#bod a{
+    font-size: 25px;
+    line-height: 56px;
+    text-decoration: none;
+    color: white
+}
+#address{
+    font-size: 30px;
+    line-height: 37px;
+}
+
+  
